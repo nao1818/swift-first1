@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					358130C61DFC909F008D789E = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = MVLB2T3UU5;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,11 +261,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MVLB2T3UU5;
 				INFOPLIST_FILE = MyJanken/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.naoya1.MyJanken;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naoya1.MyJanken0419;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -272,11 +275,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MVLB2T3UU5;
 				INFOPLIST_FILE = MyJanken/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.naoya1.MyJanken;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naoya1.MyJanken0419;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
